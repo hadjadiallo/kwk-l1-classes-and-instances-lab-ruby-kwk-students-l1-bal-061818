@@ -1,7 +1,7 @@
 # person.rb
 
  class Person 
-   def initialize (eye color, hair color,height, weight,)
+   def initialize (eye_color, hair_color,height, weight,)
      @eye_color = eye_color
      @hair_color  =  hair_color
      @height  =  height
